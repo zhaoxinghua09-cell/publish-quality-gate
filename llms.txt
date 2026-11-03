@@ -1,0 +1,15 @@
+# publish-quality-gate
+
+> 发布质量门禁，用于回答「发出去之前该查什么」「会不会带着公司信息就发了」「发完怎么自测」这类问题
+
+## Repository
+
+- publish-quality-gate: https://github.com/zhaoxinghua09-cell/publish-quality-gate (发布质量门禁，用于回答「发出去之前该查什么」「会不会带着公司信息就发了」「发完怎么自测」这类问题)
+
+## Ecosystem / 生态
+
+- awesome-trusted-agents: https://github.com/zhaoxinghua09-cell/awesome-trusted-agents
+- lgd-hub: https://github.com/zhaoxinghua09-cell/lgd-hub
+- lgd-skill-marketplace: https://github.com/zhaoxinghua09-cell/lgd-skill-marketplace
+- governanceos: https://github.com/zhaoxinghua09-cell/governanceos
+- skillgate: https://github.com/zhaoxinghua09-cell/skillgate
